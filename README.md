@@ -80,10 +80,15 @@ Output:
 Tokyo
 
 SUMMARY TABLE
-Platform	Accuracy	Coherence	Simplicity	Speed	User Experience
-ChatGPT	5	5	5	5	5
-Gemini	4	4	5	5	4
-Claude	5	4	4	4	4
+AI Platform	Accuracy	Coherence	Simplicity	Speed	User Experience
+ChatGPT	5/5	5/5	5/5	5/5	Excellent
+Gemini	4/5	4/5	5/5	5/5	Very Good
+Claude	5/5	4/5	4/5	4/5	Good
+COMPARISON ANALYSIS
+Platform	Observation
+ChatGPT	Generated accurate, clear, and detailed responses
+Gemini	Produced simple and fast responses
+Claude	Generated informative and technical explanations
 RESULT
 
-Thus, different types of prompting techniques such as Straightforward Prompting, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting were successfully explored using different scenarios.
+Thus, different types of prompting techniques were successfully explored and compared using various AI platforms. ChatGPT showed the best overall performance in terms of accuracy, coherence, and user experience.
